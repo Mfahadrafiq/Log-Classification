@@ -26,7 +26,7 @@ This project is an advanced log classification system that utilizes a hybrid cla
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Fahad/Log-Classification-with-Hybrid-Classification-Framework.git
+   git clone https://github.com/Mfahadrafiq/Log-Classification.git
    ```
 2. Navigate to the project directory:
    ```sh
